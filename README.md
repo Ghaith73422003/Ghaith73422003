@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Programmieren-0f172a?style=for-the-badge" alt="Programmieren" />
 </p>
 
-<!-- GIF (Datei liegt im gleichen Repo) -->
 <p align="center">
   <img src="./thanks-grok-thank-you-grok.gif" width="280" alt="Thanks Grok GIF" />
 </p>
@@ -24,8 +23,8 @@
 
 <h3>🎓 Ausbildung</h3>
 <p>
-  Ich habe meine <b>Matura</b> abgeschlossen und war <b>fuer ein Semester</b>
-  an der <b>Universitaet Zuerich (UZH)</b> im Fach Informatik.
+  Ich habe meine <b>Matura</b> abgeschlossen und habe <b>ein Semester</b>
+  an der <b>Universitaet Zuerich (UZH)</b> Informatik studiert.
 </p>
 
 <h3>💻 Interessen</h3>
@@ -45,7 +44,7 @@
 <h3>🚀 Woran ich gerne arbeite</h3>
 <p>
   Ich arbeite gerne am PC, baue und verstehe Hardware und schreibe Software.
-  Mich interessiert, wie man mit Technik praktische Loesungen baut.
+  Mich interessiert, wie man mit Technik praktische Loesungen entwickelt.
 </p>
 
 <hr>
