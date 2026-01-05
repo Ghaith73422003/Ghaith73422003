@@ -15,20 +15,16 @@
   <img src="https://img.shields.io/badge/Programmieren-0f172a?style=for-the-badge" alt="Programmieren" />
 </p>
 
-<!-- GIF: sicherer Raw-Link -->
+<!-- GIF (Datei liegt im gleichen Repo) -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/DEIN_USERNAME/DEIN_USERNAME/main/grok.gif"
-    width="280"
-    alt="Thanks Grok GIF"
-  />
+  <img src="./thanks-grok-thank-you-grok.gif" width="280" alt="Thanks Grok GIF" />
 </p>
 
 <hr>
 
 <h3>🎓 Ausbildung</h3>
 <p>
-  Ich habe meine <b>Matura</b> abgeschlossen und war <b>für ein Semester</b>
+  Ich habe meine <b>Matura</b> abgeschlossen und war <b>fuer ein Semester</b>
   an der <b>Universitaet Zuerich (UZH)</b> im Fach Informatik.
 </p>
 
@@ -64,3 +60,4 @@
     alt="footer"
   />
 </p>
+
