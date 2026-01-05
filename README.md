@@ -1,4 +1,3 @@
-<!-- COLOR HEADER (GitHub-safe, because it's an image) -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:22c55e&height=140&section=header&text=Ghaith%20Ramadan&fontSize=40&fontColor=ffffff"
@@ -7,34 +6,32 @@
 </p>
 
 <p align="center">
-  <b>Informatik</b> • <b>Computer Engineering</b> • <b>Künstliche Intelligenz</b>
+  <b>Informatik</b> • <b>Computer Engineering</b> • <b>Kuenstliche Intelligenz</b>
 </p>
 
-<!-- BADGES (colors work because they're images) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-2563eb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Engineering-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Programming-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KI-2563eb?style=for-the-badge" alt="KI" />
+  <img src="https://img.shields.io/badge/Computer%20Engineering-22c55e?style=for-the-badge" alt="Computer Engineering" />
+  <img src="https://img.shields.io/badge/Programmieren-0f172a?style=for-the-badge" alt="Programmieren" />
 </p>
 
-<!-- GIF (Option A: if the GIF is in the SAME repo as README.md) -->
 <p align="center">
-  <img src="./thanks-grok-thank-you-grok.gif" width="260" alt="thanks gif" />
+  <img src="./grok.gif" width="280" alt="Thanks Grok GIF" />
 </p>
 
 <hr>
 
 <h3>🎓 Ausbildung</h3>
 <p>
-  Ich habe meine <b>Matura erfolgreich abgeschlossen</b> und anschließend
-  <b>ein Semester Informatik an der Universität Zürich (UZH)</b> studiert.
+  Ich habe meine <b>Matura</b> abgeschlossen und war fuer ein Semester
+  an der <b>Universitaet Zuerich (UZH)</b> im Fach Informatik.
 </p>
 
-<h3>💻 Fachliche Interessen</h3>
+<h3>💻 Interessen</h3>
 <ul>
-  <li>Programmierung</li>
-  <li>Künstliche Intelligenz (KI)</li>
-  <li>Computer Engineering & PC-Hardware</li>
+  <li>Programmieren</li>
+  <li>Kuenstliche Intelligenz</li>
+  <li>Computer Engineering und PC-Hardware</li>
 </ul>
 
 <h3>🏔️ Hobbys</h3>
@@ -44,22 +41,22 @@
   <li>Programmieren</li>
 </ul>
 
-<h3>🚀 Motivation</h3>
+<h3>🚀 Woran ich gerne arbeite</h3>
 <p>
-  Mich begeistert es, technologische Zusammenhänge zu verstehen und
-  mithilfe von Software, Hardware und KI praxisnahe Lösungen zu entwickeln.
+  Ich arbeite gerne am PC, baue und verstehe Hardware und schreibe Software.
+  Mich interessiert, wie man mit Technik praktische Loesungen baut.
 </p>
 
 <hr>
 
 <p align="center">
-  ⭐️ Vielen Dank für den Besuch meines GitHub-Profils
+  ⭐️ Danke fuers Vorbeischauen auf meinem GitHub-Profil
 </p>
 
-<!-- COLOR FOOTER -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:2563eb&height=90&section=footer"
     alt="footer"
   />
 </p>
+
