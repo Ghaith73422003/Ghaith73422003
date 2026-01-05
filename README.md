@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Informatik</b> • <b>Computer Engineering</b> • <b>Kuenstliche Intelligenz</b>
+  <b>Informatik</b> • <b>Computer Engineering</b> • <b>Künstliche Intelligenz</b>
 </p>
 
 <p align="center">
