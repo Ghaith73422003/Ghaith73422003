@@ -24,13 +24,13 @@
 <h3>🎓 Ausbildung</h3>
 <p>
   Ich habe meine <b>Matura</b> abgeschlossen und habe <b>ein Semester</b>
-  an der <b>Universitaet Zuerich (UZH)</b> Informatik studiert.
+  an der <b>Universitaet Zürich (UZH)</b> Informatik studiert.
 </p>
 
 <h3>💻 Interessen</h3>
 <ul>
   <li>Programmieren</li>
-  <li>Kuenstliche Intelligenz</li>
+  <li>Künstliche Intelligenz</li>
   <li>Computer Engineering und PC-Hardware</li>
 </ul>
 
@@ -44,13 +44,13 @@
 <h3>🚀 Woran ich gerne arbeite</h3>
 <p>
   Ich arbeite gerne am PC, baue und verstehe Hardware und schreibe Software.
-  Mich interessiert, wie man mit Technik praktische Loesungen entwickelt.
+  Mich interessiert, wie man mit Technik praktische Lösungen entwickelt.
 </p>
 
 <hr>
 
 <p align="center">
-  ⭐️ Danke fuers Vorbeischauen auf meinem GitHub-Profil
+  ⭐️ Danke fürs Vorbeischauen auf meinem GitHub Profil
 </p>
 
 <p align="center">
